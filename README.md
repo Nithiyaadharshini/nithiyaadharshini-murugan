@@ -7,7 +7,7 @@ Netflix Clone, we all use netflix in our day to day life. And if you are just st
 1. Looks similar to Netflix.
 2. Dynamic site run on Node.js server.
 3. All data is coming from TMDB API.
-4. Dedicated Dynamic Movies Info page.
-5. Has movie trailers, and recommendations.
-6. Has smooth card slider effect.
+4. A user profile page that display a user's viewing history and warch list.
+5. A media player that allows user to stream moviws and Tv shows.
+6. A backend API that serves movie and TV show data to the frontend.
 
